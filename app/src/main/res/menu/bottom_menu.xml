@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/cookie"
+        android:title="@string/cookie"
+        android:icon="@drawable/cookie_vector"/>
+
+    <item
+        android:id="@+id/facts"
+        android:title="@string/facts"
+        android:icon="@drawable/facts_vector"/>
+
+    <item
+        android:id="@+id/list"
+        android:title="@string/list"
+        android:icon="@drawable/list_vector"/>
+
+
+
+</menu>
